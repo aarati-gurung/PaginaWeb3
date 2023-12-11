@@ -159,6 +159,10 @@ header{
     h1{
         font-size: x-large;
     }
+    .anime{
+        margin-left: 0;
+        margin-right: 0;
+    }
     .info{
         text-align: center;
     }
